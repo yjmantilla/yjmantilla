@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤔 Im interested in :
+🤔 As a researcher I'm interested in :
 
 - Anything-Inspired Models & AI
+- Cognitive-Neuro-Complexity Science
 - Methods rather than Topics
 - Explainability and Interpretability
 - Representation and Visceralization
