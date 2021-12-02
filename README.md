@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - Explainability and Interpretability
 - Representation and Visceralization
 - Complex Systems Modeling & Analysis
+
+📫 How to reach me:
+
+- Email: yjmantilla@gmail.com
+- Instagram: yjmantilla
+- Mattermost: yjmantilla
+- Linkedin: yorguinjose
