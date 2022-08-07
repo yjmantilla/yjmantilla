@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - Mattermost: yjmantilla
 - Linkedin: yorguinjose
 
-orcid: https://orcid.org/0000-0003-4473-0876
-cvlac: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001659280
+- orcid: https://orcid.org/0000-0003-4473-0876
+- cvlac: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001659280
