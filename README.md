@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 
 
 https://docs.google.com/presentation/d/1rewDTDdU9mk9mfTtUsiF_pW9euomSAYB/edit#slide=id.p1
+
+https://www.canva.com/design/DAFMDNgVuGU/44yyAzxOrv0PpclUKHvV8g/view?utm_content=DAFMDNgVuGU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
