@@ -34,8 +34,3 @@ Here are some ideas to get you started:
 
 - orcid: https://orcid.org/0000-0003-4473-0876
 - cvlac: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001659280
-
-
-https://docs.google.com/presentation/d/1rewDTDdU9mk9mfTtUsiF_pW9euomSAYB/edit#slide=id.p1
-
-https://www.canva.com/design/DAFMDNgVuGU/44yyAzxOrv0PpclUKHvV8g/view?utm_content=DAFMDNgVuGU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
