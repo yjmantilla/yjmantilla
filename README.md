@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - Linkedin: yorguinjose
 - orcid: https://orcid.org/0000-0003-4473-0876
 - cvlac: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001659280
-- [Google Scholar](https://scholar.google.com/citations?user=9W-bHVkAAAAJ)
+- Google Scholar: https://scholar.google.com/citations?user=9W-bHVkAAAAJ
