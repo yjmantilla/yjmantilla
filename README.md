@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Complex Systems Modeling & Analysis
 
 📫 How to reach me:
-
+- website: yjmantilla.github.io
 - Email: yjmantilla@gmail.com
 - [Instagram: yjmantilla](https://www.instagram.com/yjmantilla/)
 - Mattermost: yjmantilla
